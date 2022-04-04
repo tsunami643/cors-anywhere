@@ -1,0 +1,12 @@
+{
+  "name": "cors-proxy-server",
+  "description": "Built with CORS PROXY SPEC support.",
+  "website": "https://github.com/tsunami643/cors-anywhere/",
+  "repository": "https://github.com/tsunami643/cors-anywhere.git",
+  "keywords": [
+    "cors",
+    "proxy",
+    "server",
+    "heroku"
+  ]
+}
